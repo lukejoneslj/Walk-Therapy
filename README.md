@@ -17,7 +17,7 @@ An AI-powered therapist companion for your walks. This application provides both
 - **Tailwind CSS**
 - **shadcn/ui** for UI components
 - **OpenAI GPT-4o Mini** for text chat
-- **OpenAI GPT-4o Realtime** for voice chat
+- **OpenAI GPT-4o Mini Realtime** for voice chat
 - **WebRTC** for real-time audio communication
 
 ## Getting Started
@@ -25,7 +25,7 @@ An AI-powered therapist companion for your walks. This application provides both
 ### Prerequisites
 
 - Node.js 18.x or later
-- An OpenAI API key with access to GPT-4o Mini and GPT-4o Realtime
+- An OpenAI API key with access to GPT-4o Mini and GPT-4o Mini Realtime
 
 ### Installation
 
