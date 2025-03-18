@@ -3,7 +3,7 @@
 import { useState, useEffect, useRef } from "react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
-import { Mic, MicOff, Phone, PhoneOff, Loader2 } from "lucide-react";
+import { Mic, Phone, PhoneOff, Loader2 } from "lucide-react";
 
 type VoiceChatProps = {
   onTextReceived: (text: string) => void;
